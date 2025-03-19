@@ -1,0 +1,25 @@
+body{
+    background-color: rgba(153, 205, 50, 0.395);
+    
+}
+
+h1{
+    color: rgb(18, 18, 156);
+    text-align: center;
+   
+}
+
+div{
+    text-align: center;
+    margin: 30px;
+    padding: 30px;
+}
+.uno{
+    background-color: rgba(238, 130, 238, 0.674);
+}
+.dos{
+ background-color: rgb(192, 238, 238);
+}
+.tres{
+    background-color: rgba(241, 158, 33, 0.667);
+}
