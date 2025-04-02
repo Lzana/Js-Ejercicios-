@@ -1,0 +1,75 @@
+body{
+    background-color: rgb(1, 40, 40);
+
+    display: flex;
+    justify-content: center;
+   justify-content: space-evenly;
+}
+
+.colores{
+    background-color: rgba(157, 184, 107, 0.775);
+    border-radius: 16%;
+    height: 540px;
+    width: 600px;
+    margin: 40px;
+    padding: 30px;
+    text-align: center;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+h1{
+    color: rgb(82, 5, 154);
+    
+}
+
+#caja{
+    background-color: rgba(47, 71, 255, 0.633);
+    height: 90px;
+    width: 90px;
+}
+
+.circulo{
+  background-color: gold;
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+}
+
+#secreto{
+    background-color: rgba(157, 184, 107, 0.775);
+    border-radius: 16%;
+    height: 540px;
+    width: 600px;
+    margin: 40px;
+    padding: 30px;
+    text-align: center;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+#mensaje{
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+}
+
+h2{
+ color:  rgba(117, 158, 40, 0.729);
+ 
+}
+
+/* ---------------------------- */
+.mensajeSecreto{
+    background-color: antiquewhite;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+}
